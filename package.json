@@ -1,0 +1,36 @@
+{
+  "name": "eafd",
+  "version": "1.0.0",
+  "description": "\"Enter name here\" can eat a fat, um, turkey",
+  "main": "index.js",
+  "files": ["index.js", "cli.js", "audio/eafd.mp3"],
+  "engines" : {
+    "node" : ">=8.0.0"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doesdev/eafd.git"
+  },
+  "keywords": [
+    "eat",
+    "a",
+    "fat",
+    "turkey",
+    "snoop",
+    "dogg"
+  ],
+  "author": "Andrew Carpenter (https://github.com/doesdev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doesdev/eafd/issues"
+  },
+  "homepage": "https://github.com/doesdev/eafd#readme",
+  "dependencies": {
+    "axios": "^0.17.0",
+    "google-tts-api": "0.0.2",
+    "validator": "^9.1.0"
+  }
+}
