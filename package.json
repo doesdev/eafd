@@ -1,6 +1,6 @@
 {
   "name": "eafd",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "\"Enter name here\" can eat a fat, um, turkey",
   "main": "index.js",
   "files": ["index.js", "cli.js", "audio/eafd.mp3"],
