@@ -1,11 +1,14 @@
 {
   "name": "eafd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"Enter name here\" can eat a fat, um, turkey",
   "main": "index.js",
   "files": ["index.js", "cli.js", "audio/eafd.mp3"],
   "engines" : {
     "node" : ">=8.0.0"
+  },
+  "bin": {
+    "eafd": "cli.js"
   },
   "scripts": {
     "test": "ava"
