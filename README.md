@@ -1,6 +1,6 @@
 # eafd [![NPM version](https://badge.fury.io/js/eafd.svg)](https://npmjs.org/package/eafd)   [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)   
 
-> "Enter name here" can eat a fat, um, turkey
+> When you just don't have the words. Snoop does.
 
 ## Web Service
 
