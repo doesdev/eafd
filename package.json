@@ -1,7 +1,7 @@
 {
   "name": "eafd",
-  "version": "1.2.1",
-  "description": "\"Enter name here\" can eat a fat, um, turkey",
+  "version": "1.2.2",
+  "description": "When you just don't have the words. Snoop does.",
   "main": "index.js",
   "files": [
     "index.js",
@@ -27,14 +27,22 @@
     "fat",
     "turkey",
     "snoop",
-    "dogg"
+    "doggy",
+    "dogg",
+    "tts",
+    "audio",
+    "vulgar",
+    "insults",
+    "joke",
+    "effing ridiculous",
+    "I seriously made this because of a stupid client"
   ],
   "author": "Andrew Carpenter (https://github.com/doesdev)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/doesdev/eafd/issues"
   },
-  "homepage": "https://github.com/doesdev/eafd#readme",
+  "homepage": "https://eaft.doesdev.com",
   "dependencies": {
     "axios": "^0.19.0",
     "google-tts-api": "0.0.4",

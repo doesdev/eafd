@@ -1,4 +1,4 @@
-# eafd [![NPM version](https://badge.fury.io/js/eafd.svg)](https://npmjs.org/package/eafd)   [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)   [![Dependency Status](https://dependencyci.com/github/doesdev/eafd/badge)](https://dependencyci.com/github/doesdev/eafd)
+# eafd [![NPM version](https://badge.fury.io/js/eafd.svg)](https://npmjs.org/package/eafd)   [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)   
 
 > "Enter name here" can eat a fat, um, turkey
 
@@ -15,12 +15,12 @@ generally unliked things. If you pass it some words though you can custom
 tailor the message for your audience. Just send this in your group chat:
 https://eaft.doesdev.com/everyone-in-this-pointless-meeting
 
-#### Clean Version ( "... can eat a fat turkey" )
+#### [Clean Version](https://eaft.doesdev.com) ( "... can eat a fat turkey" )
 ```
 https://eaft.doesdev.com
 ```
 
-#### Dirty Version ( "... can eat a fat ...." )
+#### [Dirty Version](https://eafd.doesdev.com) ( "... can eat a fat ...." )
 ```
 https://eafd.doesdev.com
 ```
