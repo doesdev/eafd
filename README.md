@@ -2,6 +2,29 @@
 
 > "Enter name here" can eat a fat, um, turkey
 
+## Web Service
+
+Returns an audio file. If someone clicks the link, better hope their speakers
+are turned down. Especially if you send them the dirty version.
+
+It's perfect for team meetings, ping it to your co-workers while on a call and
+listen for the fun :thumbsup:.
+
+If you don't add anything to the path it just picks some random phrases from
+generally unliked things. If you pass it some words though you can custom
+tailor the message for your audience. Just send this in your group chat:
+https://eaft.doesdev.com/everyone-in-this-pointless-meeting
+
+#### Clean Version ( "... can eat a fat turkey" )
+```
+https://eaft.doesdev.com
+```
+
+#### Dirty Version ( "... can eat a fat ...." )
+```
+https://eafd.doesdev.com
+```
+
 ## CLI Usage
 
 ```sh
