@@ -39,7 +39,7 @@ async function cli () {
   if (!name) name = params[0]
   if (!name) return console.error(`EAFD: Name must be specified`)
   if (!out) out = params[1] || join(homedir(), `${name}_can_eafd.mp3`)
-  let data = await eafd(name)
+  const data = await eafd(name)
   writeFileSync(out, data)
   return console.log(out)
 }
